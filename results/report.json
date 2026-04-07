@@ -1,0 +1,32 @@
+{
+  "experiment_id": "exp_1",
+  "title": "Placeholder Experiment \u2014 No Valid Research Paper Provided",
+  "status": "invalid_input",
+  "submitted_document": "DataCamp Scikit-Learn Cheat Sheet",
+  "validation": {
+    "is_valid": false,
+    "document_type": "scikit-learn API quick-reference guide",
+    "missing_components": [
+      "hypothesis",
+      "data_requirements",
+      "methodology",
+      "portfolio_construction_rules",
+      "evaluation_criteria"
+    ],
+    "recommendations": [
+      "Resubmit the correct quantitative finance research paper.",
+      "Acceptable formats: PDF upload, direct text paste, or DOI/citation reference.",
+      "Ensure the paper contains a stated hypothesis, data requirements, and methodology.",
+      "Ensure the paper specifies portfolio construction rules and evaluation criteria."
+    ]
+  },
+  "metadata": {
+    "research_objectives": [
+      "N/A \u2014 No research objectives are present in the submitted document.",
+      "Please resubmit the correct quantitative finance research paper.",
+      "Acceptable formats: PDF upload, direct text paste, or DOI/citation reference."
+    ],
+    "created_at": "2026-04-07T15:26:01.133931"
+  },
+  "timestamp": "2026-04-07T15:26:01.133963"
+}
